@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱🔭 I’m currently working and learning Angular 8+, VueJS, NodeJS and Laravel
-- 👯 I’m looking to collaborate on Javascript, Angular, Typescript and NodeJS
+- 🌱🔭 I’m currently working and learning Angular 8+, VueJS, NestJS and NodeJS
+- 👯 I’m looking to collaborate on Javascript/Typescript, Angular, VueJS, NestJS and NodeJS
 - 📫 How to reach me: **usamanasar38@gmail.com**
 
  
